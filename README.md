@@ -1,11 +1,10 @@
 ## Hail adventurer! My name is Stefan, a Junior Software Engineer 👋
 
-- 🔭 I’m currently working:     on several [UpWork] projects
+- 🔭 I’m currently working:     on [UpWork] projects
 - 🌱 I’m currently learning:    AI algorithms and techniques
-- 🤔 I’m looking for help with:   Complex AI-based solutions
-- 👯 I’m looking to collaborate:   A long-term collaboration
+- 👯 I’m looking for:   A long-term collaboration
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/stefankrsti%C4%87/)
-- ⚡ Fun fact: Ada Lovelace (the world's first programmer) wrote the first algorithm for Analytical Engine in the 19th century.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stefan-Krstic&show_icons=true&theme=dark)](https://github.com/Stefan-Krstic/github-readme-stats)
 
+![(github)Stefan-Krstic](https://user-images.githubusercontent.com/115481825/219213392-c8ad3535-9f25-473b-bdeb-70ea8b66e5f6.jpg)
