@@ -1,4 +1,4 @@
-## Hail adventurer! My name is Stefan, a Junior Software Engineer 👋
+## Hail adventurer! My name is Stefan, a Junior Software Developer 👋
 
 - 🔭 I’m currently working:              on [UpWork] projects
 - 🌱 I’m currently learning: Machine Learning + AI techniques
